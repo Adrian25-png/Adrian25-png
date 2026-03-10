@@ -1,9 +1,9 @@
-# Olá! 👋 Meu nome é Adrian, e eu estou...
+# Olá! 👋 Meu nome é Adrian, e eu...
 
 <br />
 
-- 👨‍💻 Cursando téc. em Informática.
-- 📫 E você pode entrar em contato comigo através do meu email pessoal deividadrian123@gmail.com.
+- 👨‍💻 Sou formado em TI.
+- 📫 E você pode entrar em contato comigo através do meu email pessoal deividadrian100@gmail.com.
 
 <br />
 
